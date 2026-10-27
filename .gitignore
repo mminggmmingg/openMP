@@ -1,0 +1,15 @@
+# 빌드된 실행 파일 (각 .cpp 맨 위 주석의 명령으로 다시 빌드)
+fluid
+lorenz
+lorenz_gl
+mandel_zoom
+openMP_hello
+openMP_hello2
+sph
+sph3d
+sph_cpu
+sph_more_particle
+vortex3d
+
+# --shot 으로 저장한 스크린샷
+*.ppm
