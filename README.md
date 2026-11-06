@@ -37,3 +37,7 @@ HIP_CLANG_PATH=/opt/rocm/lib/llvm/bin hipcc -O3 -march=native -std=c++17 -fopenm
 ./vortex3d            # 창 모드
 ./vortex3d --bench    # 창 없이 CPU 스레드별 / GPU 속도 비교
 ```
+
+## 라이선스
+
+GPL-3.0 — [LICENSE](LICENSE). Copyright (C) 2026 mminggmmingg. 고쳐서 배포할 때도 같은 GPL-3.0 으로 소스를 공개해야 한다.
